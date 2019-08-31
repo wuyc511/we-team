@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="feiying-ego-team:war">
+    <output-path>$PROJECT_DIR$/ego-item/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>feiying-ego-team</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ego-item-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="feiying-ego-team:war exploded" />
+    </root>
+  </artifact>
+</component>

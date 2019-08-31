@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ego-service-impl (1)" />
+        <module name="ego-portal" />
+        <module name="ego-commons (1)" />
+        <module name="ego-redis" />
+        <module name="ego-cart (1)" />
+        <module name="ego-manage" />
+        <module name="ego-portal (1)" />
+        <module name="ego-passport" />
+        <module name="feiying-ego-team" />
+        <module name="ego-manage (1)" />
+        <module name="ego-order" />
+        <module name="ego-pojo (1)" />
+        <module name="ego-service" />
+        <module name="ego-passport (1)" />
+        <module name="ego-cart" />
+        <module name="ego-search (1)" />
+        <module name="ego-order (1)" />
+        <module name="ego-pojo" />
+        <module name="ego-commons" />
+        <module name="ego-item (1)" />
+        <module name="ego-redis (1)" />
+        <module name="ego-service-impl" />
+        <module name="ego-search" />
+        <module name="ego-service (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ego-cart" target="6" />
+      <module name="ego-cart (1)" target="1.5" />
+      <module name="ego-commons" target="1.5" />
+      <module name="ego-commons (1)" target="1.5" />
+      <module name="ego-item (1)" target="1.5" />
+      <module name="ego-manage" target="1.5" />
+      <module name="ego-manage (1)" target="1.5" />
+      <module name="ego-order" target="1.5" />
+      <module name="ego-order (1)" target="1.5" />
+      <module name="ego-parent" target="1.5" />
+      <module name="ego-passport" target="1.5" />
+      <module name="ego-passport (1)" target="6" />
+      <module name="ego-pojo" target="1.5" />
+      <module name="ego-pojo (1)" target="1.5" />
+      <module name="ego-portal" target="1.5" />
+      <module name="ego-portal (1)" target="7" />
+      <module name="ego-redis" target="1.5" />
+      <module name="ego-redis (1)" target="6" />
+      <module name="ego-search" target="1.5" />
+      <module name="ego-search (1)" target="7" />
+      <module name="ego-service" target="1.5" />
+      <module name="ego-service (1)" target="1.5" />
+      <module name="ego-service-impl" target="1.5" />
+      <module name="ego-service-impl (1)" target="6" />
+      <module name="feiying-ego-team" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

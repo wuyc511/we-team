@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ego-cart" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-item" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-order" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-cart" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-item" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-manage" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-order" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-passport" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-parent/ego-search" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-passport" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-portal" />
+    <file type="web" url="file://$PROJECT_DIR$/ego-search" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ego-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-item/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-order/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-commons/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-item/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-order/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-passport/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-parent/ego-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-passport/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-search/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-service/pom.xml" />
+        <option value="$PROJECT_DIR$/ego-service-impl/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
